@@ -27,6 +27,11 @@
       "description": "Your username",
       "value": "xditya"
     },
+    "JOKER_IMG": {
+      "description": "Your Images",
+      "value": "https://telegra.ph/file/278f5efdd347220c8a9c9.png"  
+      
+    },
   
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
