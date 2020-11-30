@@ -29,7 +29,7 @@ I'm group manager bot and Anti-spam for RR Players🃏
 Activate Anti-spam protection in your BM by this command : 
 /antispam on 
 
-Develop by [Kavindu AJ LK](t.me/kavinduaj)
+Develop by [Kavindu AJ 🇱🇰](t.me/kavinduaj)
 
 Technical knowledge instantly [CYBERWORDK](t.me/cyberwordk) 
 
